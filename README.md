@@ -70,7 +70,7 @@ Clone this repository to your desired folder using the following command; git cl
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and features requests are welcome!
 
 Feel free to check the [issues page](https://github.com/ismailmunyentwari9/Enumerable/issues).
 
