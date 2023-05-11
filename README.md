@@ -19,6 +19,7 @@
 **[Enumerable]** Enumerable is a module in Ruby that provides a set of methods for working with collections of objects such as arrays, hashes, and sets. It defines a common interface for iterating over elements and performing operations on them.
 
 ## 🛠 Built With <a name="RUby"></a>
+
 ### built-with <a name="built-with></a>
 - **[RUBY]**
 ### Tech Stack <a name="Ruby"></a>
@@ -36,19 +37,14 @@
 - **[method]**
 - **[class]**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
-
 Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/Enumerable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
 👤 **Ismail Munyentwari**
 
 - GitHub: [@Ismail-Munyentwari](https://github.com/ismailmunyentwari9)
