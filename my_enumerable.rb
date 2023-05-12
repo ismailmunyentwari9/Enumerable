@@ -1,21 +1,25 @@
 module MyEnumerable
-    def all?
-      my_each { |item| return false unless yield(item) }
-      true
-    end
-  
-    def any?
-      my_each { |item| return true if yield(item) }
-      false
-    end
-  
-    def filter
-      result = []
-      my_each { |item| result << item if yield(item) }
-      result
-    end
-  
-    def my_each(&block)
-      raise NotImplementedError, "You must implement the 'my_each' method"
-    end
+  # all method
+  def all?
+    array1 = []
+    @list.each { |item| array1.push(item) if yield item }
+    puts array1.length == @list.length
   end
+
+  # any method
+  def any?
+    @list.each do |element|
+      return true if yield element
+    end
+    false
+  end
+
+  # filter method
+  def filter
+    array2 = []
+    @list.each do |item|
+      array2.push(item) if yield item
+    end
+    print array2
+  end
+end
