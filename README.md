@@ -50,7 +50,7 @@ Clone this repository to your desired folder using the following command; git cl
 - GitHub: [@Ismail-Munyentwari](https://github.com/ismailmunyentwari9)
 - LinkedIn: [@Ismail-Munyentwari](https://www.linkedin.com/in/munyentwari-ismail-754718191/)
 
-👤 **Daniel Matama**
+👤 **Daniel Matama Mwebesa**
 
 - GitHub: [DanielMatama](https://github.com/danielmatama)
 - Twitter: [@Danmatama](https://twitter.com/Danmatama)
