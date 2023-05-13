@@ -1,5 +1,3 @@
-require_relative 'my_enumerable'
-
 class MyList
   include MyEnumerable
 
@@ -8,6 +6,8 @@ class MyList
   end
 
   def each(&block)
-    @list.each(&block)
+    @list.each do |element|
+      yield element
+    end
   end
 end
