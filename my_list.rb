@@ -5,7 +5,7 @@ class MyList
     @list = args
   end
 
-  def each(*)
-    @list.each { |element| yield element }
+  def each(&block)
+    @list.each { |element| block.call(element) }
   end
 end
